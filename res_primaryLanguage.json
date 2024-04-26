@@ -226,7 +226,7 @@
     {
       "title": "Hugging Face NLP Course",
       "startDate": "Ongoing",
-      "description": "Currently enrolled in a Transformers specialization (e.g., Coursera, edX) to gain expertise in leveraging the Hugging Face ecosystem for Natural Language Processing (NLP) tasks. This program is enhancing my skills in building and fine-tuning Transformer models, processing text data with Datasets and Tokenizers, and exploring applications beyond NLP.",
+      "description": "Currently enrolled in a Transformers specialization Hugging face course to gain expertise in leveraging the Hugging Face ecosystem for Natural Language Processing (NLP) tasks. This program is enhancing my skills in building and fine-tuning Transformer models, processing text data with Datasets and Tokenizers, and exploring applications beyond NLP.",
       "images": ["images/portfolio/data/P1.png"],
       "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
       "technologies": [
