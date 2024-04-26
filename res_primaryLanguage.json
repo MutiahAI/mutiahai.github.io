@@ -227,7 +227,7 @@
       "title": "Hugging Face NLP Course",
       "startDate": "Ongoing",
       "description": "Currently enrolled in a Transformers specialization (e.g., Coursera, edX) to gain expertise in leveraging the Hugging Face ecosystem for Natural Language Processing (NLP) tasks. This program is enhancing my skills in building and fine-tuning Transformer models, processing text data with Datasets and Tokenizers, and exploring applications beyond NLP.",
-      "images": ["images/portfolio/data/p1.png"],
+      "images": ["images/portfolio/data/P1.png"],
       "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
       "technologies": [
         {
@@ -248,7 +248,7 @@
       "title": "Data Engineering in AWS",
       "startDate": "2024",
       "description": "A coursera course that delves into the essential techniques for preparing data for machine learning models. I worked on various data gathering approaches, analyzed strategies for handling missing data, and gained hands-on experience implementing feature extraction and selection methods like Principal Component Analysis (PCA) and Variance Thresholds.",
-      "images": ["images/portfolio/data/p1.jpg"],
+      "images": ["images/portfolio/data/P1.jpg"],
       "url": "https://www.coursera.org/account/accomplishments/certificate/NTVJ3TWXBANV",
       "technologies": [
         {
@@ -269,7 +269,7 @@
       "title": "Python Programming",
       "startDate": "2019",
       "description": "A Python course teaching Python programming, its data structures and syntax",
-      "images": ["images/portfolio/python/p1.png"],
+      "images": ["images/portfolio/python/P1.png"],
       "url": "https://retail.newhorizonsnigeria.com.ng/course/python/",
       "technologies": [
         {
