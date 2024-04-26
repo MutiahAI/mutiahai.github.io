@@ -1,0 +1,114 @@
+{
+  "basic_info": {
+    "name": "Mutiah Apampa",
+    "titles": [
+      "AI/ML Engineer",
+      "Data Scientist",
+      "Support Engineer",
+      "AI & Robotics in Healthcare Researcher"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/MutiahAI",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/mutiah-apampa/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "P1.jpg",
+    "resumeLink": "https://drive.google.com/file/d/1mQD__Fv-9NMh9uHfacIZg89ujX6PPZWy/view?usp=sharing"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "95"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain",
+        "level": "80"
+      },
+      {
+        "name": "Jupyter",
+        "class": "devicon-jupyter-plain",
+        "level": "95"
+      },
+      {
+        "name": "Pytorch",
+        "class": "devicon-pytorch-plain",
+        "level": "95"
+      },
+      {
+        "name": "TensorFlow",
+        "class": "devicon-tensorflow-original",
+        "level": "65"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "60"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level": "75"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "level": "90"
+      },
+      {
+        "name": "Plotly",
+        "class": "devicon-plotly-plain",
+        "level": "90"
+      },
+      {
+        "name": "Matplotlib",
+        "class": "devicon-matplotlib-plain",
+        "level": "90"
+      },
+      {
+        "name": "Arduino",
+        "class": "devicon-arduino-plain",
+        "level": "70"
+      },
+      {
+        "name": "ROS",
+        "class": "devicon-ros-original",
+        "level": "70"
+      },
+      {
+        "name": "FastAPI",
+        "class": "devicon-fastapi-plain",
+        "level": "70"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      }
+    ]
+  }
+}
