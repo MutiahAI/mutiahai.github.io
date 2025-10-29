@@ -1,16 +1,62 @@
 {
   "basic_info": {
     "description_header": "Hi there",
-    "description": "👋 I'm Mutiah. Just graduated with a Master's degree in AI and a background in Technical Support. My passion for leveraging technology to tackle complex challenges led me to specialize in the exciting fields of AI and Robotics. I believe these fields hold immense potential to create transformative change, and I'm eager to be a part of it. \nAs a true AI and Robotics enthusiast, I enjoy dreaming up scenarios, extracting insights from data, crafting innovative solutions, coding up algorithms, and even giving robots a personality of their own. \nWhen it comes to tech tools, I'm your go-to person for Python, SQL, and AWS. I love crafting ML models, tinkering with deep learning algorithms, and getting my hands dirty with ROS (Robot Operating System). But what makes me happy the most is applying my skills to real-world problems, where I can see my work make a genuine impact. \nI'm not just a code-slinging machine, I also excel at collaborating with anyone and everyone on the team. My communication skills, both written and spoken, are top-notch, so everyone's on the same page when it comes to project needs and seeing results. \nSo, if you're looking for someone who's passionate about AI and Robotics, loves a good challenge, and can explain things clearly, well, let's chat!💜",
+    "description": "👋 I'm Mutiah, an IT Manager with a background in AI, Robotics, and Technical Support. I’m passionate about bridging technology, people, and purpose, making intelligent systems that are not only smart but also ethical, transparent, and human-centred. \nRight now, I’m working on personal projects exploring AI ethics, governance, and human–computer interaction, focusing on how humans and intelligent systems can collaborate responsibly. \nI enjoy turning complex tech ideas into practical solutions that make a real impact, and I’m always open to collaborating on research papers or projects that push the boundaries of what AI can (and should) do. \nI also excel at collaborating with anyone and everyone on the team. My communication skills, both written and spoken, are top-notch, so everyone's on the same page when it comes to project needs and seeing results. \nSo, if you're looking for someone who's passionate about AI and Robotics, loves a good challenge, and can explain things clearly, well, let's chat!💜",
     "section_name": {
       "about": "About me",
+      "experience": "Experience",
       "education": "Education",
       "projects": "Projects",
       "skills": "Skills",
-      "experience": "Experience",
       "certifications": "Certifications"
     }
   },
+  "experience": [
+    {
+      "company": "Solace UK",
+      "title": "IT Manager",
+      "years": "01.2025 - till date",
+      "mainTech": ["Airtable"],
+      "technologies": [
+        "Airtable",
+        "Monday",
+        "Make",
+        "Zapier",
+        "Microsoft Cloud Services",
+        "Power BI"
+      ]
+    },
+    {
+      "company": "Data Consulting Group",
+      "title": "AI Engineer, Contract",
+      "years": "09.2024 - 08.2025",
+      "mainTech": ["AI: NLP & Computer Vision"],
+      "technologies": [
+        "Python",
+        "AWS",
+        "Pytorch",
+        "scikit-learn",
+        "OpenCV",
+        "EasyOCR"
+      ]
+    },
+    {
+      "company": "ESW Capital (Trilogy)",
+      "title": "Software Support Engineer",
+      "years": "08.2021 - 06.2022",
+      "mainTech": ["Operating Systems: Windows, Linux"],
+      "technologies": [
+        "Python",
+        "Log Monitoring and Analysis",
+        "Jira",
+        "NSLookup",
+        "Remote Desktop Protocol (RDP)",
+        "VMWare",
+        "Salesforce",
+        "Zendesk"
+      ]
+    }
+  ],
   "education": [
     {
       "company": "Queen Mary University of London",
@@ -195,31 +241,6 @@
           "name": "C++"
         }
       ]
-    }
-  ],
-  "experience": [
-    {
-      "company": "ESW Capital (Trilogy)",
-      "title": "Software Support Engineer",
-      "years": "08.2021 - 06.2022",
-      "mainTech": ["Operating Systems: Windows, Linux"],
-      "technologies": [
-        "Python",
-        "Log Monitoring and Analysis",
-        "Jira",
-        "NSLookup",
-        "Remote Desktop Protocol (RDP)",
-        "VMWare",
-        "Salesforce",
-        "Zendesk"
-      ]
-    },
-    {
-      "company": "Coca-Cola HBC",
-      "title": "Automation and Control Engineering Intern",
-      "years": "05.2019 - 10.2019",
-      "mainTech": ["PLC"],
-      "technologies": ["C++", "Arduino", "AutoCad", "MATLAB"]
     }
   ],
   "certifications": [
