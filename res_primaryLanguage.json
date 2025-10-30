@@ -37,7 +37,8 @@
         "Pytorch",
         "scikit-learn",
         "OpenCV",
-        "EasyOCR"
+        "EasyOCR",
+        "Neo4j"
       ]
     },
     {
